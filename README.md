@@ -25,21 +25,20 @@ Follow the steps below to get the chat application up and running on your local 
    git clone https://github.com/RAHUL-R10/Code-Clause-Chat-App
 2.Navigate to the project directory:
 
-shell
-Copy code
-cd chat-application
+   shell
+      cd chat-application
+
 3.Install the dependencies:
 
-shellCopy code
+shell
 npm install
 4.Start the server:
 
 shell
-Copy code
 npm start
 Open a web browser and visit http://localhost:3000.
 
-##Usage
+## USAGE
 Enter a username and room name on the home page.
 Click the "Join Chat" button to enter the chat room.
 Start sending and receiving messages in real-time with other users in the same room.
@@ -47,5 +46,5 @@ To switch rooms, simply provide a different room name and click "Join Chat" agai
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
-License
+## Licence 
 This project is licensed under the MIT License.
