@@ -21,22 +21,25 @@ Follow the steps below to get the chat application up and running on your local 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/chat-application.git
-Install the dependencies:
+   ```shell
+   git clone https://github.com/RAHUL-R10/Code-Clause-Chat-App
+2.Navigate to the project directory:
 
-bash
+shell
 Copy code
 cd chat-application
-npm install
-Start the server:
+3.Install the dependencies:
 
-bash
+shellCopy code
+npm install
+4.Start the server:
+
+shell
 Copy code
 npm start
 Open a web browser and visit http://localhost:3000.
 
-Usage
+##Usage
 Enter a username and room name on the home page.
 Click the "Join Chat" button to enter the chat room.
 Start sending and receiving messages in real-time with other users in the same room.
