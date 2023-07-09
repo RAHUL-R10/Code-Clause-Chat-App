@@ -25,17 +25,19 @@ Follow the steps below to get the chat application up and running on your local 
    git clone https://github.com/RAHUL-R10/Code-Clause-Chat-App
 2.Navigate to the project directory:
 
-   shell
+   ```shell
       cd chat-application
 
 3.Install the dependencies:
 
-shell
+```shell
 npm install
+
 4.Start the server:
 
-shell
+```shell
 npm start
+
 Open a web browser and visit http://localhost:3000.
 
 ## USAGE
