@@ -26,17 +26,17 @@ Follow the steps below to get the chat application up and running on your local 
 2.Navigate to the project directory:
 
    ```shell
-      cd chat-application
+   cd chat-application
 
 3.Install the dependencies:
 
-```shell
-npm install
+   ```shell
+   npm install
 
 4.Start the server:
 
-```shell
-npm start
+   ```shell
+   npm start
 
 Open a web browser and visit http://localhost:3000.
 
